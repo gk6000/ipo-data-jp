@@ -45,6 +45,34 @@
         "hotness": "low",
         "needsFundingFreeze": false
       }
+    },
+    {
+      "code": "483A",
+      "name": "テラテクノロジー",
+      "market": "S",
+      "applyStart": "2025-12-09",
+      "applyEnd": "2025-12-12",
+      "lotteryDate": "2025-12-15",
+      "listingDate": "2025-12-23",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "low",
+        "needsFundingFreeze": false
+      }
+    },
+    {
+      "code": "462A",
+      "name": "FUNDINNO",
+      "market": "S",
+      "applyStart": "2025-11-19",
+      "applyEnd": "2025-11-25",
+      "lotteryDate": "2025-11-26",
+      "listingDate": "2025-12-05",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "low",
+        "needsFundingFreeze": false
+      }
     }
   ]
 }
