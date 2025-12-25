@@ -1,0 +1,922 @@
+{
+  "schemaVersion": 1,
+  "market": "JP",
+  "dataVersion": "2025-12-25",
+  "generatedAt": "2025-12-25T12:02:47+09:00",
+  "source": {
+    "name": "tokyoipo",
+    "url": "https://www.tokyoipo.com/ipo/schedule.php?j_e=J&yr=2025"
+  },
+  "ipos": [
+    {
+      "name": "バルコス",
+      "code": "7790",
+      "market": "名証ネクスト",
+      "listingDate": "2025-02-03",
+      "applyStart": "2025-01-17",
+      "applyEnd": "2025-01-23",
+      "lotteryDate": "2025-01-24",
+      "leadUnderwriter": "フィリップ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "技術承継機構",
+      "code": "319A",
+      "market": "東証グロース",
+      "listingDate": "2025-02-05",
+      "applyStart": "2025-01-22",
+      "applyEnd": "2025-01-27",
+      "lotteryDate": "2025-01-28",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "フライヤー",
+      "code": "323A",
+      "market": "東証グロース",
+      "listingDate": "2025-02-20",
+      "applyStart": "2025-02-03",
+      "applyEnd": "2025-02-07",
+      "lotteryDate": "2025-02-08",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ブッキングリゾート",
+      "code": "324A",
+      "market": "東証グロース",
+      "listingDate": "2025-02-21",
+      "applyStart": "2025-02-05",
+      "applyEnd": "2025-02-12",
+      "lotteryDate": "2025-02-13",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "TENTIAL",
+      "code": "325A",
+      "market": "東証グロース",
+      "listingDate": "2025-02-28",
+      "applyStart": "2025-02-10",
+      "applyEnd": "2025-02-17",
+      "lotteryDate": "2025-02-18",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "TalentX",
+      "code": "330A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-18",
+      "applyStart": "2025-02-28",
+      "applyEnd": "2025-03-06",
+      "lotteryDate": "2025-03-07",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "メディックス",
+      "code": "331A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-03-19",
+      "applyStart": "2025-03-03",
+      "applyEnd": "2025-03-07",
+      "lotteryDate": "2025-03-08",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ＪＸ金属",
+      "code": "5016",
+      "market": "東証プライム",
+      "listingDate": "2025-03-19",
+      "applyStart": "2025-03-03",
+      "applyEnd": "2025-03-07",
+      "lotteryDate": "2025-03-08",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ミーク",
+      "code": "332A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-21",
+      "applyStart": "2025-03-05",
+      "applyEnd": "2025-03-11",
+      "lotteryDate": "2025-03-12",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "パパネッツ",
+      "code": "9388",
+      "market": "福証Q-Board",
+      "listingDate": "2025-03-21",
+      "applyStart": "2025-03-05",
+      "applyEnd": "2025-03-11",
+      "lotteryDate": "2025-03-12",
+      "leadUnderwriter": "フィリップ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ミライロ",
+      "code": "335A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-24",
+      "applyStart": "2025-03-06",
+      "applyEnd": "2025-03-12",
+      "lotteryDate": "2025-03-13",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ビジュアル・プロセッシング・ジャパン",
+      "code": "334A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-25",
+      "applyStart": "2025-03-06",
+      "applyEnd": "2025-03-12",
+      "lotteryDate": "2025-03-13",
+      "leadUnderwriter": "岡三証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ダイナミックマッププラットフォーム",
+      "code": "336A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-27",
+      "applyStart": "2025-03-11",
+      "applyEnd": "2025-03-17",
+      "lotteryDate": "2025-03-18",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ＺｅｎｍｕＴｅｃｈ",
+      "code": "338A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-27",
+      "applyStart": "2025-03-10",
+      "applyEnd": "2025-03-14",
+      "lotteryDate": "2025-03-15",
+      "leadUnderwriter": "岡三証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "プログレス・テクノロジーズ グループ",
+      "code": "339A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-28",
+      "applyStart": "2025-03-12",
+      "applyEnd": "2025-03-17",
+      "lotteryDate": "2025-03-18",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "トヨコー",
+      "code": "341A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-28",
+      "applyStart": "2025-03-12",
+      "applyEnd": "2025-03-18",
+      "lotteryDate": "2025-03-19",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ジグザグ",
+      "code": "340A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-31",
+      "applyStart": "2025-03-13",
+      "applyEnd": "2025-03-19",
+      "lotteryDate": "2025-03-20",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ＩＡＣＥトラベル",
+      "code": "343A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-04-07",
+      "applyStart": "2025-03-19",
+      "applyEnd": "2025-03-26",
+      "lotteryDate": "2025-03-27",
+      "leadUnderwriter": "東海東京証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "デジタルグリッド",
+      "code": "350A",
+      "market": "東証グロース",
+      "listingDate": "2025-04-22",
+      "applyStart": "2025-04-07",
+      "applyEnd": "2025-04-11",
+      "lotteryDate": "2025-04-12",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ＬＩＦＥ　ＣＲＥＡＴＥ",
+      "code": "352A",
+      "market": "東証グロース",
+      "listingDate": "2025-04-24",
+      "applyStart": "2025-04-09",
+      "applyEnd": "2025-04-15",
+      "lotteryDate": "2025-04-16",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "エレベーターコミュニケーションズ",
+      "code": "353A",
+      "market": "アンビシャス",
+      "listingDate": "2025-04-25",
+      "applyStart": "2025-04-10",
+      "applyEnd": "2025-04-16",
+      "lotteryDate": "2025-04-17",
+      "leadUnderwriter": "東洋証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "伊澤タオル",
+      "code": "365A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-06-20",
+      "applyStart": "2025-06-04",
+      "applyEnd": "2025-06-10",
+      "lotteryDate": "2025-06-11",
+      "leadUnderwriter": "三菱ＵＦＪモルガン・スタンレー証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ウェルネス・コミュニケーションズ",
+      "code": "366A",
+      "market": "東証グロース",
+      "listingDate": "2025-06-23",
+      "applyStart": "2025-06-05",
+      "applyEnd": "2025-06-11",
+      "lotteryDate": "2025-06-12",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "プリモグローバルホールディングス",
+      "code": "367A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-06-24",
+      "applyStart": "2025-06-09",
+      "applyEnd": "2025-06-13",
+      "lotteryDate": "2025-06-14",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "北里コーポレーション",
+      "code": "368A",
+      "market": "東証プライム",
+      "listingDate": "2025-06-25",
+      "applyStart": "2025-06-10",
+      "applyEnd": "2025-06-13",
+      "lotteryDate": "2025-06-14",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "エータイ",
+      "code": "369A",
+      "market": "東証グロース",
+      "listingDate": "2025-06-26",
+      "applyStart": "2025-06-11",
+      "applyEnd": "2025-06-17",
+      "lotteryDate": "2025-06-18",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "レント",
+      "code": "372A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-06-30",
+      "applyStart": "2025-06-12",
+      "applyEnd": "2025-06-18",
+      "lotteryDate": "2025-06-19",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "リップス",
+      "code": "373A",
+      "market": "東証グロース",
+      "listingDate": "2025-06-30",
+      "applyStart": "2025-06-13",
+      "applyEnd": "2025-06-18",
+      "lotteryDate": "2025-06-19",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ヒット",
+      "code": "378A",
+      "market": "東証グロース",
+      "listingDate": "2025-07-04",
+      "applyStart": "2025-06-19",
+      "applyEnd": "2025-06-25",
+      "lotteryDate": "2025-06-26",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "みのや",
+      "code": "386A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-07-18",
+      "applyStart": "2025-07-02",
+      "applyEnd": "2025-07-08",
+      "lotteryDate": "2025-07-09",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "フラー",
+      "code": "387A",
+      "market": "東証グロース",
+      "listingDate": "2025-07-24",
+      "applyStart": "2025-07-07",
+      "applyEnd": "2025-07-11",
+      "lotteryDate": "2025-07-12",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "山忠",
+      "code": "391A",
+      "market": "名証メイン",
+      "listingDate": "2025-07-29",
+      "applyStart": "2025-07-11",
+      "applyEnd": "2025-07-17",
+      "lotteryDate": "2025-07-18",
+      "leadUnderwriter": "アイザワ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "アクセルスペースホールディングス",
+      "code": "402A",
+      "market": "東証グロース",
+      "listingDate": "2025-08-13",
+      "applyStart": "2025-07-28",
+      "applyEnd": "2025-08-01",
+      "lotteryDate": "2025-08-02",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "オリオンビール",
+      "code": "409A",
+      "market": "東証プライム",
+      "listingDate": "2025-09-25",
+      "applyStart": "2025-09-09",
+      "applyEnd": "2025-09-12",
+      "lotteryDate": "2025-09-13",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "GMOコマース",
+      "code": "410A",
+      "market": "東証グロース",
+      "listingDate": "2025-09-25",
+      "applyStart": "2025-09-08",
+      "applyEnd": "2025-09-12",
+      "lotteryDate": "2025-09-13",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "UNICONホールディングス",
+      "code": "407A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-09-26",
+      "applyStart": "2025-09-09",
+      "applyEnd": "2025-09-16",
+      "lotteryDate": "2025-09-17",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "オーバーラップホールディングス",
+      "code": "414A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-03",
+      "applyStart": "2025-09-17",
+      "applyEnd": "2025-09-24",
+      "lotteryDate": "2025-09-25",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ムービン・ストラテジック・キャリア",
+      "code": "421A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-06",
+      "applyStart": "2025-09-19",
+      "applyEnd": "2025-09-25",
+      "lotteryDate": "2025-09-26",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ウリドキ",
+      "code": "418A",
+      "market": "名証ネクスト",
+      "listingDate": "2025-10-07",
+      "applyStart": "2025-09-18",
+      "applyEnd": "2025-09-25",
+      "lotteryDate": "2025-09-26",
+      "leadUnderwriter": "Ｊトラストグローバル証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "サイプレス・ホールディングス",
+      "code": "428A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-10-08",
+      "applyStart": "2025-09-24",
+      "applyEnd": "2025-09-29",
+      "lotteryDate": "2025-09-30",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ライオン事務器",
+      "code": "423A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-10-15",
+      "applyStart": "2025-09-29",
+      "applyEnd": "2025-10-03",
+      "lotteryDate": "2025-10-04",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "テクセンドフォトマスク",
+      "code": "429A",
+      "market": "東証プライム",
+      "listingDate": "2025-10-16",
+      "applyStart": "2025-09-30",
+      "applyEnd": "2025-10-06",
+      "lotteryDate": "2025-10-07",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ユーソナー",
+      "code": "431A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-17",
+      "applyStart": "2025-10-01",
+      "applyEnd": "2025-10-06",
+      "lotteryDate": "2025-10-07",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "サイバーソリューションズ",
+      "code": "436A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-23",
+      "applyStart": "2025-10-07",
+      "applyEnd": "2025-10-14",
+      "lotteryDate": "2025-10-15",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "インフキュリオン",
+      "code": "438A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-24",
+      "applyStart": "2025-10-09",
+      "applyEnd": "2025-10-15",
+      "lotteryDate": "2025-10-16",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "NE",
+      "code": "441A",
+      "market": "東証グロース",
+      "listingDate": "2025-11-04",
+      "applyStart": "2025-10-17",
+      "applyEnd": "2025-10-23",
+      "lotteryDate": "2025-10-24",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "クラシコ",
+      "code": "442A",
+      "market": "東証グロース",
+      "listingDate": "2025-11-05",
+      "applyStart": "2025-10-20",
+      "applyEnd": "2025-10-24",
+      "lotteryDate": "2025-10-25",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ハンワホームズ",
+      "code": "275A",
+      "market": "名証ネクスト",
+      "listingDate": "2025-11-17",
+      "applyStart": "2025-10-30",
+      "applyEnd": "2025-11-06",
+      "lotteryDate": "2025-11-07",
+      "leadUnderwriter": "フィリップ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ノースサンド",
+      "code": "446A",
+      "market": "東証グロース",
+      "listingDate": "2025-11-21",
+      "applyStart": "2025-11-06",
+      "applyEnd": "2025-11-12",
+      "lotteryDate": "2025-11-13",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "HUMAN MADE",
+      "code": "456A",
+      "market": "東証グロース",
+      "listingDate": "2025-11-27",
+      "applyStart": "2025-11-11",
+      "applyEnd": "2025-11-14",
+      "lotteryDate": "2025-11-15",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "BRANU",
+      "code": "460A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-01",
+      "applyStart": "2025-11-13",
+      "applyEnd": "2025-11-19",
+      "lotteryDate": "2025-11-20",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "FUNDINNO",
+      "code": "462A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-05",
+      "applyStart": "2025-11-19",
+      "applyEnd": "2025-11-25",
+      "lotteryDate": "2025-11-26",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "フィットクルー",
+      "code": "469A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-12",
+      "applyStart": "2025-11-27",
+      "applyEnd": "2025-12-03",
+      "lotteryDate": "2025-12-04",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "AlbaLink",
+      "code": "5537",
+      "market": "東証グロース",
+      "listingDate": "2025-12-15",
+      "applyStart": "2025-11-28",
+      "applyEnd": "2025-12-03",
+      "lotteryDate": "2025-12-04",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "NSグループ",
+      "code": "471A",
+      "market": "東証プライム",
+      "listingDate": "2025-12-16",
+      "applyStart": "2025-12-02",
+      "applyEnd": "2025-12-05",
+      "lotteryDate": "2025-12-06",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "SBI新生銀行",
+      "code": "8303",
+      "market": "東証プライム",
+      "listingDate": "2025-12-17",
+      "applyStart": "2025-12-02",
+      "applyEnd": "2025-12-05",
+      "lotteryDate": "2025-12-06",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ミラティブ",
+      "code": "472A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-18",
+      "applyStart": "2025-12-03",
+      "applyEnd": "2025-12-09",
+      "lotteryDate": "2025-12-10",
+      "leadUnderwriter": "三菱ＵＦＪモルガン・スタンレー証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "ギミック",
+      "code": "475A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-12-19",
+      "applyStart": "2025-12-04",
+      "applyEnd": "2025-12-09",
+      "lotteryDate": "2025-12-10",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "辻・本郷ＩＴコンサルティング",
+      "code": "476A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-12-19",
+      "applyStart": "2025-12-04",
+      "applyEnd": "2025-12-10",
+      "lotteryDate": "2025-12-11",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "パワーエックス",
+      "code": "485A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-19",
+      "applyStart": "2025-12-03",
+      "applyEnd": "2025-12-09",
+      "lotteryDate": "2025-12-10",
+      "leadUnderwriter": "三菱ＵＦＪモルガン・スタンレー証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "スタートライン",
+      "code": "477A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-22",
+      "applyStart": "2025-12-05",
+      "applyEnd": "2025-12-11",
+      "lotteryDate": "2025-12-12",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "テラテクノロジー",
+      "code": "483A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-12-23",
+      "applyStart": "2025-12-09",
+      "applyEnd": "2025-12-12",
+      "lotteryDate": "2025-12-13",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "フツパー",
+      "code": "478A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-24",
+      "applyStart": "2025-12-09",
+      "applyEnd": "2025-12-15",
+      "lotteryDate": "2025-12-16",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "PRONI",
+      "code": "479A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-24",
+      "applyStart": "2025-12-09",
+      "applyEnd": "2025-12-15",
+      "lotteryDate": "2025-12-16",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    },
+    {
+      "name": "リブ・コンサルティング",
+      "code": "480A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-25",
+      "applyStart": "2025-12-10",
+      "applyEnd": "2025-12-16",
+      "lotteryDate": "2025-12-17",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      }
+    }
+  ]
+}
