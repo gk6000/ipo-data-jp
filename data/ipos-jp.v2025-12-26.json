@@ -1,0 +1,1312 @@
+{
+  "schemaVersion": 1,
+  "market": "JP",
+  "dataVersion": "2025-12-26",
+  "generatedAt": "2025-12-25T23:49:27+09:00",
+  "source": {
+    "name": "tokyoipo",
+    "url": "https://www.tokyoipo.com/ipo/schedule.php?j_e=J&yr=2025"
+  },
+  "ipos": [
+    {
+      "name": "リブ・コンサルティング",
+      "code": "480A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-25",
+      "applyStart": "2025-12-10",
+      "applyEnd": "2025-12-16",
+      "lotteryDate": "2025-12-17",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1897500,
+      "bookbuildingPriceMin": 920,
+      "bookbuildingPriceMax": 1000,
+      "offerPrice": 1000,
+      "initialPrice": 1400,
+      "initialReturnPct": 40
+    },
+    {
+      "name": "フツパー",
+      "code": "478A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-24",
+      "applyStart": "2025-12-09",
+      "applyEnd": "2025-12-15",
+      "lotteryDate": "2025-12-16",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 3895000,
+      "bookbuildingPriceMin": 960,
+      "bookbuildingPriceMax": 1020,
+      "offerPrice": 1020,
+      "initialPrice": 1344,
+      "initialReturnPct": 32
+    },
+    {
+      "name": "PRONI",
+      "code": "479A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-24",
+      "applyStart": "2025-12-09",
+      "applyEnd": "2025-12-15",
+      "lotteryDate": "2025-12-16",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1988600,
+      "bookbuildingPriceMin": 1730,
+      "bookbuildingPriceMax": 1750,
+      "offerPrice": 1750,
+      "initialPrice": 1875,
+      "initialReturnPct": 7
+    },
+    {
+      "name": "テラテクノロジー",
+      "code": "483A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-12-23",
+      "applyStart": "2025-12-09",
+      "applyEnd": "2025-12-12",
+      "lotteryDate": "2025-12-13",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 655500,
+      "bookbuildingPriceMin": 2010,
+      "bookbuildingPriceMax": 2090,
+      "offerPrice": 2090,
+      "initialPrice": 2904,
+      "initialReturnPct": 39
+    },
+    {
+      "name": "スタートライン",
+      "code": "477A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-22",
+      "applyStart": "2025-12-05",
+      "applyEnd": "2025-12-11",
+      "lotteryDate": "2025-12-12",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1679000,
+      "bookbuildingPriceMin": 440,
+      "bookbuildingPriceMax": 480,
+      "offerPrice": 480,
+      "initialPrice": 935,
+      "initialReturnPct": 95
+    },
+    {
+      "name": "ギミック",
+      "code": "475A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-12-19",
+      "applyStart": "2025-12-04",
+      "applyEnd": "2025-12-09",
+      "lotteryDate": "2025-12-10",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 2493400,
+      "bookbuildingPriceMin": 1120,
+      "bookbuildingPriceMax": 1150,
+      "offerPrice": 1150,
+      "initialPrice": 1090,
+      "initialReturnPct": -5
+    },
+    {
+      "name": "辻・本郷ＩＴコンサルティング",
+      "code": "476A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-12-19",
+      "applyStart": "2025-12-04",
+      "applyEnd": "2025-12-10",
+      "lotteryDate": "2025-12-11",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 655500,
+      "bookbuildingPriceMin": 1810,
+      "bookbuildingPriceMax": 1850,
+      "offerPrice": 1850,
+      "initialPrice": 2980,
+      "initialReturnPct": 61
+    },
+    {
+      "name": "パワーエックス",
+      "code": "485A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-19",
+      "applyStart": "2025-12-03",
+      "applyEnd": "2025-12-09",
+      "lotteryDate": "2025-12-10",
+      "leadUnderwriter": "三菱ＵＦＪモルガン・スタンレー証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 9646500,
+      "bookbuildingPriceMin": 1200,
+      "bookbuildingPriceMax": 1220,
+      "offerPrice": 1220,
+      "initialPrice": 1130,
+      "initialReturnPct": -7
+    },
+    {
+      "name": "ミラティブ",
+      "code": "472A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-18",
+      "applyStart": "2025-12-03",
+      "applyEnd": "2025-12-09",
+      "lotteryDate": "2025-12-10",
+      "leadUnderwriter": "三菱ＵＦＪモルガン・スタンレー証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 8424300,
+      "bookbuildingPriceMin": 850,
+      "bookbuildingPriceMax": 860,
+      "offerPrice": 860,
+      "initialPrice": 751,
+      "initialReturnPct": -13
+    },
+    {
+      "name": "SBI新生銀行",
+      "code": "8303",
+      "market": "東証プライム",
+      "listingDate": "2025-12-17",
+      "applyStart": "2025-12-02",
+      "applyEnd": "2025-12-05",
+      "lotteryDate": "2025-12-06",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 255300000,
+      "bookbuildingPriceMin": 1440,
+      "bookbuildingPriceMax": 1450,
+      "offerPrice": 1450,
+      "initialPrice": 1586,
+      "initialReturnPct": 9
+    },
+    {
+      "name": "NSグループ",
+      "code": "471A",
+      "market": "東証プライム",
+      "listingDate": "2025-12-16",
+      "applyStart": "2025-12-02",
+      "applyEnd": "2025-12-05",
+      "lotteryDate": "2025-12-06",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 26599300,
+      "bookbuildingPriceMin": 1440,
+      "bookbuildingPriceMax": 1480,
+      "offerPrice": 1480,
+      "initialPrice": 1406,
+      "initialReturnPct": -5
+    },
+    {
+      "name": "AlbaLink",
+      "code": "5537",
+      "market": "東証グロース",
+      "listingDate": "2025-12-15",
+      "applyStart": "2025-11-28",
+      "applyEnd": "2025-12-03",
+      "lotteryDate": "2025-12-04",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1979100,
+      "bookbuildingPriceMin": 1200,
+      "bookbuildingPriceMax": 1300,
+      "offerPrice": 1300,
+      "initialPrice": 1850,
+      "initialReturnPct": 42
+    },
+    {
+      "name": "フィットクルー",
+      "code": "469A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-12",
+      "applyStart": "2025-11-27",
+      "applyEnd": "2025-12-03",
+      "lotteryDate": "2025-12-04",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 384500,
+      "bookbuildingPriceMin": 2000,
+      "bookbuildingPriceMax": 2200,
+      "offerPrice": 2200,
+      "initialPrice": 3000,
+      "initialReturnPct": 36
+    },
+    {
+      "name": "FUNDINNO",
+      "code": "462A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-05",
+      "applyStart": "2025-11-19",
+      "applyEnd": "2025-11-25",
+      "lotteryDate": "2025-11-26",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 2873500,
+      "bookbuildingPriceMin": 600,
+      "bookbuildingPriceMax": 620,
+      "offerPrice": 620,
+      "initialPrice": 883,
+      "initialReturnPct": 42
+    },
+    {
+      "name": "BRANU",
+      "code": "460A",
+      "market": "東証グロース",
+      "listingDate": "2025-12-01",
+      "applyStart": "2025-11-13",
+      "applyEnd": "2025-11-19",
+      "lotteryDate": "2025-11-20",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1299500,
+      "bookbuildingPriceMin": 930,
+      "bookbuildingPriceMax": 980,
+      "offerPrice": 980,
+      "initialPrice": 1655,
+      "initialReturnPct": 69
+    },
+    {
+      "name": "HUMAN MADE",
+      "code": "456A",
+      "market": "東証グロース",
+      "listingDate": "2025-11-27",
+      "applyStart": "2025-11-11",
+      "applyEnd": "2025-11-14",
+      "lotteryDate": "2025-11-15",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 6522100,
+      "bookbuildingPriceMin": 3000,
+      "bookbuildingPriceMax": 3130,
+      "offerPrice": 3130,
+      "initialPrice": 3440,
+      "initialReturnPct": 10
+    },
+    {
+      "name": "ノースサンド",
+      "code": "446A",
+      "market": "東証グロース",
+      "listingDate": "2025-11-21",
+      "applyStart": "2025-11-06",
+      "applyEnd": "2025-11-12",
+      "lotteryDate": "2025-11-13",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 19800000,
+      "bookbuildingPriceMin": 1060,
+      "bookbuildingPriceMax": 1120,
+      "offerPrice": 1120,
+      "initialPrice": 1200,
+      "initialReturnPct": 7
+    },
+    {
+      "name": "ハンワホームズ",
+      "code": "275A",
+      "market": "名証ネクスト",
+      "listingDate": "2025-11-17",
+      "applyStart": "2025-10-30",
+      "applyEnd": "2025-11-06",
+      "lotteryDate": "2025-11-07",
+      "leadUnderwriter": "フィリップ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 437000,
+      "bookbuildingPriceMin": 250,
+      "bookbuildingPriceMax": 270,
+      "offerPrice": 270,
+      "initialPrice": 298,
+      "initialReturnPct": 10
+    },
+    {
+      "name": "クラシコ",
+      "code": "442A",
+      "market": "東証グロース",
+      "listingDate": "2025-11-05",
+      "applyStart": "2025-10-20",
+      "applyEnd": "2025-10-24",
+      "lotteryDate": "2025-10-25",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 322000,
+      "bookbuildingPriceMin": 1220,
+      "bookbuildingPriceMax": 1390,
+      "offerPrice": 1390,
+      "initialPrice": 3270,
+      "initialReturnPct": 135
+    },
+    {
+      "name": "NE",
+      "code": "441A",
+      "market": "東証グロース",
+      "listingDate": "2025-11-04",
+      "applyStart": "2025-10-17",
+      "applyEnd": "2025-10-23",
+      "lotteryDate": "2025-10-24",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 575000,
+      "bookbuildingPriceMin": 730,
+      "bookbuildingPriceMax": 750,
+      "offerPrice": 750,
+      "initialPrice": 750,
+      "initialReturnPct": 0
+    },
+    {
+      "name": "インフキュリオン",
+      "code": "438A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-24",
+      "applyStart": "2025-10-09",
+      "applyEnd": "2025-10-15",
+      "lotteryDate": "2025-10-16",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 7718500,
+      "bookbuildingPriceMin": 1540,
+      "bookbuildingPriceMax": 1600,
+      "offerPrice": 1680,
+      "initialPrice": 1560,
+      "initialReturnPct": -7
+    },
+    {
+      "name": "サイバーソリューションズ",
+      "code": "436A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-23",
+      "applyStart": "2025-10-07",
+      "applyEnd": "2025-10-14",
+      "lotteryDate": "2025-10-15",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 3077600,
+      "bookbuildingPriceMin": 1300,
+      "bookbuildingPriceMax": 1380,
+      "offerPrice": 1380,
+      "initialPrice": 1914,
+      "initialReturnPct": 39
+    },
+    {
+      "name": "ユーソナー",
+      "code": "431A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-17",
+      "applyStart": "2025-10-01",
+      "applyEnd": "2025-10-06",
+      "lotteryDate": "2025-10-07",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 2662200,
+      "bookbuildingPriceMin": 1910,
+      "bookbuildingPriceMax": 2000,
+      "offerPrice": 2000,
+      "initialPrice": 2350,
+      "initialReturnPct": 18
+    },
+    {
+      "name": "テクセンドフォトマスク",
+      "code": "429A",
+      "market": "東証プライム",
+      "listingDate": "2025-10-16",
+      "applyStart": "2025-09-30",
+      "applyEnd": "2025-10-06",
+      "lotteryDate": "2025-10-07",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 52203500,
+      "bookbuildingPriceMin": 2900,
+      "bookbuildingPriceMax": 3000,
+      "offerPrice": 3000,
+      "initialPrice": 3570,
+      "initialReturnPct": 19
+    },
+    {
+      "name": "ライオン事務器",
+      "code": "423A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-10-15",
+      "applyStart": "2025-09-29",
+      "applyEnd": "2025-10-03",
+      "lotteryDate": "2025-10-04",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 4906300,
+      "bookbuildingPriceMin": 209,
+      "bookbuildingPriceMax": 213,
+      "offerPrice": 213,
+      "initialPrice": 374,
+      "initialReturnPct": 76
+    },
+    {
+      "name": "サイプレス・ホールディングス",
+      "code": "428A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-10-08",
+      "applyStart": "2025-09-24",
+      "applyEnd": "2025-09-29",
+      "lotteryDate": "2025-09-30",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 4046600,
+      "bookbuildingPriceMin": 690,
+      "bookbuildingPriceMax": 710,
+      "offerPrice": 710,
+      "initialPrice": 675,
+      "initialReturnPct": -5
+    },
+    {
+      "name": "ウリドキ",
+      "code": "418A",
+      "market": "名証ネクスト",
+      "listingDate": "2025-10-07",
+      "applyStart": "2025-09-18",
+      "applyEnd": "2025-09-25",
+      "lotteryDate": "2025-09-26",
+      "leadUnderwriter": "Ｊトラストグローバル証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 412400,
+      "bookbuildingPriceMin": 1100,
+      "bookbuildingPriceMax": 1200,
+      "offerPrice": 1200,
+      "initialPrice": 1290,
+      "initialReturnPct": 8
+    },
+    {
+      "name": "ムービン・ストラテジック・キャリア",
+      "code": "421A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-06",
+      "applyStart": "2025-09-19",
+      "applyEnd": "2025-09-25",
+      "lotteryDate": "2025-09-26",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 2328700,
+      "bookbuildingPriceMin": 1990,
+      "bookbuildingPriceMax": 2080,
+      "offerPrice": 2080,
+      "initialPrice": 2502,
+      "initialReturnPct": 20
+    },
+    {
+      "name": "オーバーラップホールディングス",
+      "code": "414A",
+      "market": "東証グロース",
+      "listingDate": "2025-10-03",
+      "applyStart": "2025-09-17",
+      "applyEnd": "2025-09-24",
+      "lotteryDate": "2025-09-25",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 10000000,
+      "bookbuildingPriceMin": 1600,
+      "bookbuildingPriceMax": 1650,
+      "offerPrice": 1650,
+      "initialPrice": 1533,
+      "initialReturnPct": -7
+    },
+    {
+      "name": "UNICONホールディングス",
+      "code": "407A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-09-26",
+      "applyStart": "2025-09-09",
+      "applyEnd": "2025-09-16",
+      "lotteryDate": "2025-09-17",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 5433800,
+      "bookbuildingPriceMin": 1000,
+      "bookbuildingPriceMax": 1060,
+      "offerPrice": 1060,
+      "initialPrice": 1385,
+      "initialReturnPct": 31
+    },
+    {
+      "name": "オリオンビール",
+      "code": "409A",
+      "market": "東証プライム",
+      "listingDate": "2025-09-25",
+      "applyStart": "2025-09-09",
+      "applyEnd": "2025-09-12",
+      "lotteryDate": "2025-09-13",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 31697600,
+      "bookbuildingPriceMin": 800,
+      "bookbuildingPriceMax": 850,
+      "offerPrice": 850,
+      "initialPrice": 1863,
+      "initialReturnPct": 119
+    },
+    {
+      "name": "GMOコマース",
+      "code": "410A",
+      "market": "東証グロース",
+      "listingDate": "2025-09-25",
+      "applyStart": "2025-09-08",
+      "applyEnd": "2025-09-12",
+      "lotteryDate": "2025-09-13",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1803600,
+      "bookbuildingPriceMin": 1140,
+      "bookbuildingPriceMax": 1180,
+      "offerPrice": 1180,
+      "initialPrice": 2131,
+      "initialReturnPct": 81
+    },
+    {
+      "name": "アクセルスペースホールディングス",
+      "code": "402A",
+      "market": "東証グロース",
+      "listingDate": "2025-08-13",
+      "applyStart": "2025-07-28",
+      "applyEnd": "2025-08-01",
+      "lotteryDate": "2025-08-02",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 23000000,
+      "bookbuildingPriceMin": 345,
+      "bookbuildingPriceMax": 375,
+      "offerPrice": 375,
+      "initialPrice": 751,
+      "initialReturnPct": 100
+    },
+    {
+      "name": "山忠",
+      "code": "391A",
+      "market": "名証メイン",
+      "listingDate": "2025-07-29",
+      "applyStart": "2025-07-11",
+      "applyEnd": "2025-07-17",
+      "lotteryDate": "2025-07-18",
+      "leadUnderwriter": "アイザワ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 190000,
+      "bookbuildingPriceMin": 2520,
+      "bookbuildingPriceMax": 2600,
+      "offerPrice": 2600,
+      "initialPrice": 2600,
+      "initialReturnPct": 0
+    },
+    {
+      "name": "フラー",
+      "code": "387A",
+      "market": "東証グロース",
+      "listingDate": "2025-07-24",
+      "applyStart": "2025-07-07",
+      "applyEnd": "2025-07-11",
+      "lotteryDate": "2025-07-12",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 273900,
+      "bookbuildingPriceMin": 1110,
+      "bookbuildingPriceMax": 1170,
+      "offerPrice": 1170,
+      "initialPrice": 5200,
+      "initialReturnPct": 344
+    },
+    {
+      "name": "みのや",
+      "code": "386A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-07-18",
+      "applyStart": "2025-07-02",
+      "applyEnd": "2025-07-08",
+      "lotteryDate": "2025-07-09",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 805000,
+      "bookbuildingPriceMin": 1440,
+      "bookbuildingPriceMax": 1540,
+      "offerPrice": 1540,
+      "initialPrice": 2531,
+      "initialReturnPct": 64
+    },
+    {
+      "name": "ヒット",
+      "code": "378A",
+      "market": "東証グロース",
+      "listingDate": "2025-07-04",
+      "applyStart": "2025-06-19",
+      "applyEnd": "2025-06-25",
+      "lotteryDate": "2025-06-26",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1863000,
+      "bookbuildingPriceMin": 1430,
+      "bookbuildingPriceMax": 1500,
+      "offerPrice": 1500,
+      "initialPrice": 2166,
+      "initialReturnPct": 44
+    },
+    {
+      "name": "レント",
+      "code": "372A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-06-30",
+      "applyStart": "2025-06-12",
+      "applyEnd": "2025-06-18",
+      "lotteryDate": "2025-06-19",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 970600,
+      "bookbuildingPriceMin": 4270,
+      "bookbuildingPriceMax": 4330,
+      "offerPrice": 4330,
+      "initialPrice": 5730,
+      "initialReturnPct": 32
+    },
+    {
+      "name": "リップス",
+      "code": "373A",
+      "market": "東証グロース",
+      "listingDate": "2025-06-30",
+      "applyStart": "2025-06-13",
+      "applyEnd": "2025-06-18",
+      "lotteryDate": "2025-06-19",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1277000,
+      "bookbuildingPriceMin": 3100,
+      "bookbuildingPriceMax": 3130,
+      "offerPrice": 3130,
+      "initialPrice": 3200,
+      "initialReturnPct": 2
+    },
+    {
+      "name": "エータイ",
+      "code": "369A",
+      "market": "東証グロース",
+      "listingDate": "2025-06-26",
+      "applyStart": "2025-06-11",
+      "applyEnd": "2025-06-17",
+      "lotteryDate": "2025-06-18",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1614600,
+      "bookbuildingPriceMin": 1480,
+      "bookbuildingPriceMax": 1510,
+      "offerPrice": 1510,
+      "initialPrice": 2547,
+      "initialReturnPct": 69
+    },
+    {
+      "name": "北里コーポレーション",
+      "code": "368A",
+      "market": "東証プライム",
+      "listingDate": "2025-06-25",
+      "applyStart": "2025-06-10",
+      "applyEnd": "2025-06-13",
+      "lotteryDate": "2025-06-14",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 16100000,
+      "bookbuildingPriceMin": 1300,
+      "bookbuildingPriceMax": 1340,
+      "offerPrice": 1340,
+      "initialPrice": 2001,
+      "initialReturnPct": 49
+    },
+    {
+      "name": "プリモグローバルホールディングス",
+      "code": "367A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-06-24",
+      "applyStart": "2025-06-09",
+      "applyEnd": "2025-06-13",
+      "lotteryDate": "2025-06-14",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 7436800,
+      "bookbuildingPriceMin": 2060,
+      "bookbuildingPriceMax": 2150,
+      "offerPrice": 2150,
+      "initialPrice": 2013,
+      "initialReturnPct": -6
+    },
+    {
+      "name": "ウェルネス・コミュニケーションズ",
+      "code": "366A",
+      "market": "東証グロース",
+      "listingDate": "2025-06-23",
+      "applyStart": "2025-06-05",
+      "applyEnd": "2025-06-11",
+      "lotteryDate": "2025-06-12",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1724500,
+      "bookbuildingPriceMin": 2450,
+      "bookbuildingPriceMax": 2480,
+      "offerPrice": 2480,
+      "initialPrice": 3300,
+      "initialReturnPct": 33
+    },
+    {
+      "name": "伊澤タオル",
+      "code": "365A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-06-20",
+      "applyStart": "2025-06-04",
+      "applyEnd": "2025-06-10",
+      "lotteryDate": "2025-06-11",
+      "leadUnderwriter": "三菱ＵＦＪモルガン・スタンレー証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 5750000,
+      "bookbuildingPriceMin": 700,
+      "bookbuildingPriceMax": 750,
+      "offerPrice": 750,
+      "initialPrice": 765,
+      "initialReturnPct": 2
+    },
+    {
+      "name": "エレベーターコミュニケーションズ",
+      "code": "353A",
+      "market": "アンビシャス",
+      "listingDate": "2025-04-25",
+      "applyStart": "2025-04-10",
+      "applyEnd": "2025-04-16",
+      "lotteryDate": "2025-04-17",
+      "leadUnderwriter": "東洋証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 119800,
+      "bookbuildingPriceMin": 1600,
+      "bookbuildingPriceMax": 1700,
+      "offerPrice": 1700,
+      "initialPrice": 2200,
+      "initialReturnPct": 29
+    },
+    {
+      "name": "ＬＩＦＥ　ＣＲＥＡＴＥ",
+      "code": "352A",
+      "market": "東証グロース",
+      "listingDate": "2025-04-24",
+      "applyStart": "2025-04-09",
+      "applyEnd": "2025-04-15",
+      "lotteryDate": "2025-04-16",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 2735800,
+      "bookbuildingPriceMin": 1110,
+      "bookbuildingPriceMax": 1250,
+      "offerPrice": 1250,
+      "initialPrice": 1280,
+      "initialReturnPct": 2
+    },
+    {
+      "name": "デジタルグリッド",
+      "code": "350A",
+      "market": "東証グロース",
+      "listingDate": "2025-04-22",
+      "applyStart": "2025-04-07",
+      "applyEnd": "2025-04-11",
+      "lotteryDate": "2025-04-12",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 2101000,
+      "bookbuildingPriceMin": 4400,
+      "bookbuildingPriceMax": 4570,
+      "offerPrice": 4520,
+      "initialPrice": 5310,
+      "initialReturnPct": 17
+    },
+    {
+      "name": "ＩＡＣＥトラベル",
+      "code": "343A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-04-07",
+      "applyStart": "2025-03-19",
+      "applyEnd": "2025-03-26",
+      "lotteryDate": "2025-03-27",
+      "leadUnderwriter": "東海東京証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1350900,
+      "bookbuildingPriceMin": 980,
+      "bookbuildingPriceMax": 1000,
+      "offerPrice": 1000,
+      "initialPrice": 864,
+      "initialReturnPct": -14
+    },
+    {
+      "name": "ジグザグ",
+      "code": "340A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-31",
+      "applyStart": "2025-03-13",
+      "applyEnd": "2025-03-19",
+      "lotteryDate": "2025-03-20",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 866400,
+      "bookbuildingPriceMin": 1470,
+      "bookbuildingPriceMax": 1500,
+      "offerPrice": 1500,
+      "initialPrice": 2030,
+      "initialReturnPct": 35
+    },
+    {
+      "name": "プログレス・テクノロジーズ グループ",
+      "code": "339A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-28",
+      "applyStart": "2025-03-12",
+      "applyEnd": "2025-03-17",
+      "lotteryDate": "2025-03-18",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 4378200,
+      "bookbuildingPriceMin": 1890,
+      "bookbuildingPriceMax": 1950,
+      "offerPrice": 1950,
+      "initialPrice": 1980,
+      "initialReturnPct": 2
+    },
+    {
+      "name": "トヨコー",
+      "code": "341A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-28",
+      "applyStart": "2025-03-12",
+      "applyEnd": "2025-03-18",
+      "lotteryDate": "2025-03-19",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 4255000,
+      "bookbuildingPriceMin": 700,
+      "bookbuildingPriceMax": 730,
+      "offerPrice": 730,
+      "initialPrice": 871,
+      "initialReturnPct": 19
+    },
+    {
+      "name": "ダイナミックマッププラットフォーム",
+      "code": "336A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-27",
+      "applyStart": "2025-03-11",
+      "applyEnd": "2025-03-17",
+      "lotteryDate": "2025-03-18",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 7084000,
+      "bookbuildingPriceMin": 1130,
+      "bookbuildingPriceMax": 1200,
+      "offerPrice": 1200,
+      "initialPrice": 1530,
+      "initialReturnPct": 28
+    },
+    {
+      "name": "ＺｅｎｍｕＴｅｃｈ",
+      "code": "338A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-27",
+      "applyStart": "2025-03-10",
+      "applyEnd": "2025-03-14",
+      "lotteryDate": "2025-03-15",
+      "leadUnderwriter": "岡三証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 331200,
+      "bookbuildingPriceMin": 1500,
+      "bookbuildingPriceMax": 1580,
+      "offerPrice": 1580,
+      "initialPrice": 5000,
+      "initialReturnPct": 216
+    },
+    {
+      "name": "ビジュアル・プロセッシング・ジャパン",
+      "code": "334A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-25",
+      "applyStart": "2025-03-06",
+      "applyEnd": "2025-03-12",
+      "lotteryDate": "2025-03-13",
+      "leadUnderwriter": "岡三証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 486400,
+      "bookbuildingPriceMin": 1360,
+      "bookbuildingPriceMax": 1430,
+      "offerPrice": 1430,
+      "initialPrice": 3040,
+      "initialReturnPct": 113
+    },
+    {
+      "name": "ミライロ",
+      "code": "335A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-24",
+      "applyStart": "2025-03-06",
+      "applyEnd": "2025-03-12",
+      "lotteryDate": "2025-03-13",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 2646300,
+      "bookbuildingPriceMin": 255,
+      "bookbuildingPriceMax": 270,
+      "offerPrice": 270,
+      "initialPrice": 661,
+      "initialReturnPct": 145
+    },
+    {
+      "name": "ミーク",
+      "code": "332A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-21",
+      "applyStart": "2025-03-05",
+      "applyEnd": "2025-03-11",
+      "lotteryDate": "2025-03-12",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 3659500,
+      "bookbuildingPriceMin": 760,
+      "bookbuildingPriceMax": 800,
+      "offerPrice": 800,
+      "initialPrice": 845,
+      "initialReturnPct": 6
+    },
+    {
+      "name": "パパネッツ",
+      "code": "9388",
+      "market": "福証Q-Board",
+      "listingDate": "2025-03-21",
+      "applyStart": "2025-03-05",
+      "applyEnd": "2025-03-11",
+      "lotteryDate": "2025-03-12",
+      "leadUnderwriter": "フィリップ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 230000,
+      "bookbuildingPriceMin": 700,
+      "bookbuildingPriceMax": 740,
+      "offerPrice": 700,
+      "initialPrice": 830,
+      "initialReturnPct": 19
+    },
+    {
+      "name": "メディックス",
+      "code": "331A",
+      "market": "東証スタンダード",
+      "listingDate": "2025-03-19",
+      "applyStart": "2025-03-03",
+      "applyEnd": "2025-03-07",
+      "lotteryDate": "2025-03-08",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 2645000,
+      "bookbuildingPriceMin": 760,
+      "bookbuildingPriceMax": 800,
+      "offerPrice": 800,
+      "initialPrice": 760,
+      "initialReturnPct": -5
+    },
+    {
+      "name": "ＪＸ金属",
+      "code": "5016",
+      "market": "東証プライム",
+      "listingDate": "2025-03-19",
+      "applyStart": "2025-03-03",
+      "applyEnd": "2025-03-07",
+      "lotteryDate": "2025-03-08",
+      "leadUnderwriter": "大和証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 534934100,
+      "bookbuildingPriceMin": 810,
+      "bookbuildingPriceMax": 820,
+      "offerPrice": 820,
+      "initialPrice": 843,
+      "initialReturnPct": 3
+    },
+    {
+      "name": "TalentX",
+      "code": "330A",
+      "market": "東証グロース",
+      "listingDate": "2025-03-18",
+      "applyStart": "2025-02-28",
+      "applyEnd": "2025-03-06",
+      "lotteryDate": "2025-03-07",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1960800,
+      "bookbuildingPriceMin": 650,
+      "bookbuildingPriceMax": 750,
+      "offerPrice": 750,
+      "initialPrice": 1026,
+      "initialReturnPct": 37
+    },
+    {
+      "name": "TENTIAL",
+      "code": "325A",
+      "market": "東証グロース",
+      "listingDate": "2025-02-28",
+      "applyStart": "2025-02-10",
+      "applyEnd": "2025-02-17",
+      "lotteryDate": "2025-02-18",
+      "leadUnderwriter": "野村證券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 3202400,
+      "bookbuildingPriceMin": 1900,
+      "bookbuildingPriceMax": 2000,
+      "offerPrice": 2000,
+      "initialPrice": 2600,
+      "initialReturnPct": 30
+    },
+    {
+      "name": "ブッキングリゾート",
+      "code": "324A",
+      "market": "東証グロース",
+      "listingDate": "2025-02-21",
+      "applyStart": "2025-02-05",
+      "applyEnd": "2025-02-12",
+      "lotteryDate": "2025-02-13",
+      "leadUnderwriter": "ＳＭＢＣ日興証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1646800,
+      "bookbuildingPriceMin": 1200,
+      "bookbuildingPriceMax": 1240,
+      "offerPrice": 1240,
+      "initialPrice": 1550,
+      "initialReturnPct": 25
+    },
+    {
+      "name": "フライヤー",
+      "code": "323A",
+      "market": "東証グロース",
+      "listingDate": "2025-02-20",
+      "applyStart": "2025-02-03",
+      "applyEnd": "2025-02-07",
+      "lotteryDate": "2025-02-08",
+      "leadUnderwriter": "みずほ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 755300,
+      "bookbuildingPriceMin": 590,
+      "bookbuildingPriceMax": 680,
+      "offerPrice": 680,
+      "initialPrice": 1178,
+      "initialReturnPct": 73
+    },
+    {
+      "name": "技術承継機構",
+      "code": "319A",
+      "market": "東証グロース",
+      "listingDate": "2025-02-05",
+      "applyStart": "2025-01-22",
+      "applyEnd": "2025-01-27",
+      "lotteryDate": "2025-01-28",
+      "leadUnderwriter": "SBI証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 1673200,
+      "bookbuildingPriceMin": 1850,
+      "bookbuildingPriceMax": 2000,
+      "offerPrice": 2000,
+      "initialPrice": 2700,
+      "initialReturnPct": 35
+    },
+    {
+      "name": "バルコス",
+      "code": "7790",
+      "market": "名証ネクスト",
+      "listingDate": "2025-02-03",
+      "applyStart": "2025-01-17",
+      "applyEnd": "2025-01-23",
+      "lotteryDate": "2025-01-24",
+      "leadUnderwriter": "フィリップ証券",
+      "tags": {
+        "hotness": "high",
+        "needsFundingFreeze": true
+      },
+      "sharesOffered": 126000,
+      "bookbuildingPriceMin": 1300,
+      "bookbuildingPriceMax": 1400,
+      "offerPrice": 1400,
+      "initialPrice": 1401,
+      "initialReturnPct": 0
+    }
+  ]
+}
